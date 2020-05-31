@@ -1,0 +1,11 @@
+item.ItemGrain.name=Grain
+item.ItemMeat.name=Meat
+item.ItemMRE.name=MRE
+
+item.Corn.name=Corn 
+item.CornSeeds.name=Corn Kernels
+tile.CornPlant.name=Corn Stock
+
+tile.BlockShell.name=Artillery Shell
+
+itemGroup.tabMREMod=MRE Mod
